@@ -7,7 +7,7 @@
 #that by 2 as stated by the question and terminal will print the answer.
 
 def double (my_number)
-puts my_number * 2
+  puts my_number * 2
 end
 
 double(4)
