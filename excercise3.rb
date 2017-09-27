@@ -3,7 +3,8 @@
 # Try calling it with different numbers.
 
 def is_even?(number)
-  puts number % 6 == 0
+  puts number.even? 
+  #puts number % 2 == 0
 end
 is_even?(36)
 
