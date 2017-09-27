@@ -20,3 +20,11 @@ def greet_backwards(name)
 end
 
 greet_backwards("Amanda")
+
+greet_backwards("Bob")
+
+greet_backwards("Shiirly")
+
+greet_backwards("Sue")
+
+greet_backwards("Andy")
